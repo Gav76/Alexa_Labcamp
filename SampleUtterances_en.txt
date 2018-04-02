@@ -1,0 +1,10 @@
+GetNewCatFact can you give me a cat fact
+GetNewCatFact can you give me a cat fact please
+GetNewCatFact give me a cat fact
+GetNewCatFact give me a cat fact please
+GetNewCatFact fact
+GetNewCatFact fact please
+GetNewCatFact tell me a fact
+GetNewCatFact tell me a fact please
+GetNewCatFact give me a fact
+GetNewCatFact give me a fact please
